@@ -4,7 +4,7 @@ FACULTY PROJECT
 This README provides an overview of my implementations for Database Project.
 
 ## Introduction
-In database.txt is an example of database.
+In database.txt is an example of database.In 'studenti' we memorise id, name, overall grade, status, in 'materii' subject id, name, prof name, in 'inrolari' student id, subject id, notes (3 notes).
 
 ## Files Descriptions
 ### `task1.c`
