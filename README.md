@@ -4,21 +4,7 @@ FACULTY PROJECT
 This README provides an overview of my implementations for Database Project.
 
 ## Introduction
-Database looks like:
-[STUDENTI]
-0, Nicolescu Elena, 3, t
-1, Pogoran Adrian, 4, b
-2, Trandaf Denisa, 1, b
-[MATERII]
-0, USO, Roman Florentina
-1, PCLP1, Pancila Daniela
-[INROLARI]
-0, 1, 3.37 2.00 3.35
-0, 0, 2.65 2.00 2.07
-1, 1, 2.34 0.39 0.11
-
-where is memorised: id, name, overall notes, status(studenti), id, name, prof name(materii),
-stud id, subject id, notes(inrolari)
+In database.txt is an example of database.
 
 ## Files Descriptions
 ### `task1.c`
